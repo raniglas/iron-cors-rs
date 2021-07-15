@@ -11,7 +11,7 @@ description = "A CORS middleware implementation for Iron."
 
 [dependencies]
 log = "0.4"
-iron = "0.6"
+iron = "0.6.1"
 
 [dev-dependencies]
 iron-test = "0.6.0"
